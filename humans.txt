@@ -1,0 +1,13 @@
+/* TEAM */
+
+    Name:         Geoff Hill
+    Position:     Webmaster, Web Developer
+    Website:      http://www.geoffhill.org/
+    Twitter:      @geoffhill
+    From:         Vancouver, Canada
+    
+/* SITE */
+
+    Last Update:  8:29 p.m. March 7 2019
+    Language:     English
+    Doctype:      XHTML 1.0 Strict
